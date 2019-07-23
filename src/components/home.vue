@@ -1,6 +1,6 @@
 <template>
     <div>
-        友情链接: <a href="http://yaofan.zhaokewei.com">Surprise</a>
+        友情链接: <a href="http://yaofan.ren">Surprise</a>
     </div>
 </template>
 
